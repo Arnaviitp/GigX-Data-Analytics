@@ -7,3 +7,5 @@
 4. Data Analysis (Hotel Booking)
 
 5. e-Commerce Project
+
+6. Costumer Churn Analysis
